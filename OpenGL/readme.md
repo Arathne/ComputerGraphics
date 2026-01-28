@@ -1,7 +1,5 @@
 # OpenGL
 
----
-
 | Index  | Name               | Description                        |
 | ------ | ------------------ | -------------------------------------- |
 | 1      | Window             | Create a window                        |
@@ -14,7 +12,5 @@
 | 8      | imgui              | x |
 | 9      | Snake              | x |
 | 10     | Rubik's Cube       | x |
-
----
 
 reference - <https://www.learnopengl.com>
