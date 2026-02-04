@@ -2,7 +2,7 @@
 
 ## Philosophy 
 	
-OpenGL is a state machine, GPU is an assembly line. OpenGL handles the assembly line from the beginning and the end. 
+OpenGL is a state machine, GPU is an assembly line. OpenGL handles the assembly line from the beginning to the end. 
 The programmer should not inject any code into the assembly line. Meaning, shaders should be compiled once during runtime. 
 Good luck debugging a gpu runtime error.
 
