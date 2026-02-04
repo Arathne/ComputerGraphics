@@ -11,16 +11,17 @@ Good luck debugging a gpu runtime error.
 | Index  | Name               | Description                            |
 | ------ | ------------------ | -------------------------------------- |
 | 1      | Window             | Create a window                        |
-| 2      | Triangle           | Draw a triangle                        |
-| 3      | Shaders            | x |
-| 4      | Textures           | x |
-| 5      | Transformations    | x |
-| 6      | Coordinate Systems | x |
-| 7      | Camera             | x |
-| 8      | imgui              | x |
-| 9      | Snake              | x |
-| 10     | Rubik's Cube       | x |
-| 11     | Ray Tracing        | x |
+| 2      | GLAD               | Understanding GLAD                     |
+| 3      | Triangle           | Draw a triangle                        |
+| 4      | Shaders            | x |
+| 5      | Textures           | x |
+| 6      | Transformations    | x |
+| 7      | Coordinate Systems | x |
+| 8      | Camera             | x |
+| 9      | imgui              | x |
+| 10     | Snake              | x |
+| 11     | Rubik's Cube       | x |
+| 12     | Ray Tracing        | x |
 
 ## References
 
