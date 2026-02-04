@@ -24,6 +24,6 @@ Good luck debugging a gpu runtime error.
 
 ## References
 
-* Learn OpenGL - <https://www.learnopengl.com>
 * OpenGL - <https://www.opengl.org>
 * glfw - <https://www.glfw.org>
+* Learn OpenGL - <https://www.learnopengl.com>
