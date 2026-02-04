@@ -1,10 +1,10 @@
-# OpenGL
+# MACH
 
 ## Philosophy 
-	
-OpenGL is a state machine, GPU is an assembly line. OpenGL handles the assembly line from the beginning to the end. 
-The programmer should not inject any code into the assembly line. Meaning, shaders should be compiled once during runtime. 
-Good luck debugging a gpu runtime error.
+
+MACH is a state machine designed for all purpose use. Designed to take CPU time out of Rollercoaster Tycoon 2 with C++11. 
+Shaders are a thing of the past with these new experimental programs designed to teach pseudo code to ALL of Computer Graphics.
+Now is the time to start your engines!
 
 ## Index
 
@@ -12,12 +12,16 @@ Good luck debugging a gpu runtime error.
 | ------ | ------------------ | -------------------------------------- |
 | 1      | Window             | Initialize a window                    |
 | 2      | Renderer           | Initialize a renderer                  |
-| 3      | Textures           | x |
-| 4      | Transformations    | x |
-| 5      | Camera             | x |
-| 6      | Model              | x |
+| 3      | Imager             | x |
+| 4      | Modeler            | x |
+| 5      | UI                 | x |
+| 6      | Snake              | x |
+| 7      | Pong               | x |
+| 8      | Rubik's Cube       | x |
+| 9      | Ray Tracing        | x |
 
-| 7      | imgui              | x |
-| 8      | Snake              | x |
-| 9      | Rubik's Cube       | x |
-| 10     | Ray Tracing        | x |
+## Trusted
+
+* Metal
+* Vulkan
+* SFML
