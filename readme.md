@@ -6,4 +6,9 @@ DFA / NFA
 
 ## Sources
 
-DFA / NFA
+* OpenGL - <https://www.opengl.org>
+* glfw - <https://www.glfw.org>
+
+## References
+
+People who helped. None.

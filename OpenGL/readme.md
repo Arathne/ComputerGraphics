@@ -24,9 +24,3 @@ Good luck debugging a gpu runtime error.
 | 11     | Snake              | x |
 | 12     | Rubik's Cube       | x |
 | 13     | Ray Tracing        | x |
-
-## References
-
-* OpenGL - <https://www.opengl.org>
-* glfw - <https://www.glfw.org>
-* Learn OpenGL - <https://www.learnopengl.com>
