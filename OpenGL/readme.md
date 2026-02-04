@@ -10,17 +10,14 @@ Good luck debugging a gpu runtime error.
 
 | Index  | Name               | Description                            |
 | ------ | ------------------ | -------------------------------------- |
-| 1      | GLFW               | Initialize a window                    |
-| 2      | GLAD               | x |
-| 3      | GLEW               | x |
-| 4      | Triangle           | x |
-| 5      | Shaders            | x |
-| 6      | Textures           | x |
-| 7      | Transformations    | x |
-| 8      | Coordinate Systems | x |
-| 9      | Camera             | x |
-| 9      | Model              | x |
-| 10     | imgui              | x |
-| 11     | Snake              | x |
-| 12     | Rubik's Cube       | x |
-| 13     | Ray Tracing        | x |
+| 1      | Window             | Initialize a window                    |
+| 2      | Renderer           | Initialize a renderer                  |
+| 3      | Textures           | x |
+| 4      | Transformations    | x |
+| 5      | Camera             | x |
+| 6      | Model              | x |
+
+| 7      | imgui              | x |
+| 8      | Snake              | x |
+| 9      | Rubik's Cube       | x |
+| 10     | Ray Tracing        | x |

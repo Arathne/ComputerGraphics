@@ -20,4 +20,5 @@ add_subdirectory(glfw)
 add_executable(window main.cpp)
 
 include_directories(include)
+
 target_link_libraries(window glfw OpenGL::GL)
