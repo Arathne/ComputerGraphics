@@ -4,12 +4,6 @@
 
 DFA / NFA
 
-## Trusted
-
-* Metal
-* Vulkan
-* SFML
-
 ## Sources
 
 * OpenGL - <https://www.opengl.org>
