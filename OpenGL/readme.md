@@ -20,9 +20,3 @@ Now is the time to start your engines!
 | 8      | Pong               | x |
 | 9      | Rubik's Cube       | x |
 | 10     | Ray Tracing        | x |
-
-## Trusted
-
-* Metal
-* Vulkan
-* SFML
