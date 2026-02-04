@@ -1,4 +1,9 @@
 # Computer Graphics
 
-Philosophy: DFA
-Sources: DFA/NFA
+## Philosophy
+
+DFA / NFA
+
+## Sources
+
+DFA / NFA
