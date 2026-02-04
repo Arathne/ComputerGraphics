@@ -10,18 +10,19 @@ Good luck debugging a gpu runtime error.
 
 | Index  | Name               | Description                            |
 | ------ | ------------------ | -------------------------------------- |
-| 1      | Window             | Create a window                        |
-| 2      | GLAD               | Understanding GLAD                     |
-| 3      | Triangle           | Draw a triangle                        |
-| 4      | Shaders            | x |
-| 5      | Textures           | x |
-| 6      | Transformations    | x |
-| 7      | Coordinate Systems | x |
-| 8      | Camera             | x |
-| 9      | imgui              | x |
-| 10     | Snake              | x |
-| 11     | Rubik's Cube       | x |
-| 12     | Ray Tracing        | x |
+| 1      | GLFW               | Initialize a window                    |
+| 2      | GLAD               | Initialize a window with GLAD          |
+| 3      | GLEW               | Initialize a window with GLEW          |
+| 4      | Triangle           | Draw a triangle                        |
+| 5      | Shaders            | x |
+| 6      | Textures           | x |
+| 7      | Transformations    | x |
+| 8      | Coordinate Systems | x |
+| 9      | Camera             | x |
+| 10     | imgui              | x |
+| 11     | Snake              | x |
+| 12     | Rubik's Cube       | x |
+| 13     | Ray Tracing        | x |
 
 ## References
 
