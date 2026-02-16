@@ -9,6 +9,7 @@ DFA / NFA
 * OpenGL - <https://www.opengl.org>
 * glfw - <https://www.glfw.org>
 * umlet - <https://www.umlet.com>
+* Learn OpenGL - <https://learnopengl.com>
 
 ## References
 
