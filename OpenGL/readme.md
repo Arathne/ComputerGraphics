@@ -17,8 +17,8 @@
 
 ## Projects
 
-| 1      | Rubik's Cube       | x |
-| 2      | 3D Calculator      | x |
+* Rubik's Cube
+* 3D Calculator
 
 ## Sources
 
