@@ -7,7 +7,7 @@ project(
 	LANGUAGES CXX C
 )
 
-set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD 23)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 find_package(OpenGL REQUIRED)
@@ -19,6 +19,5 @@ add_subdirectory(glfw)
 
 add_executable(window main.cpp)
 
-include_directories(include)
-
-target_link_libraries(window glfw OpenGL::GL)
+target_include_directories(window PRIVATE include)
+target_link_libraries(window PRIVATE glfw OpenGL::GL)
