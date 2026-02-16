@@ -1,9 +1,5 @@
 # OpenGL
 
-## Philosophy
-
-None
-
 ## Index
 
 | Index  | Name               | Description                            |
