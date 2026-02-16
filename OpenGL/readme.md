@@ -1,17 +1,29 @@
-# OpenGL
+# OpenGL 4.6
 
 ## Index
 
 | Index  | Name               | Description                            |
 | ------ | ------------------ | -------------------------------------- |
-| 1      | Window             | Initialize a window                    |
-| 2      | Pipeline           | Initialize a pipeline                  |
-| 3      | Renderer           | Initialize a renderer                  |
-| 4      | Imager             | x |
-| 5      | Modeler            | x |
-| 6      | Controller         | x |
-| 7      | UI                 | x |
-| 8      | Pong               | x |
-| 9      | Rubik's Cube       | x |
-| 10     | Ray Tracing        | x |
-| 10     | Multiplayer        | x |
+| 1      | Window             | Opens a window and draws a triangle    |
+| 2      | Texture            | x |
+| 3      | Camera             | x |
+| 4      | Model              | x |
+| 5      | Text               | x |
+| 6      | Sound              | x |
+| 7      | Controller         | x |
+| 8      | Multiplayer        | x |
+| 9      | Lighting           | x |
+| 10     | Dear ImGui         | x |
+
+## Projects
+
+| 1      | Rubik's Cube       | x |
+| 2      | 3D Calculator      | x |
+
+## Sources
+
+* Learn OpenGL - <https://learnopengl.com>
+* OpenGL - <https://www.opengl.org>
+* glfw - <https://www.glfw.org>
+* umlet - <https://www.umlet.com>
+* Dear ImGui - <https://github.com/ocornut/imgui>
