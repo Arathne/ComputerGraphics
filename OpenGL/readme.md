@@ -26,4 +26,5 @@
 * OpenGL - <https://www.opengl.org>
 * glfw - <https://www.glfw.org>
 * umlet - <https://www.umlet.com>
+* Polycam - <https://apps.apple.com/us/app/polycam-3d-scanner-lidar-360/id1532482376>
 * Dear ImGui - <https://github.com/ocornut/imgui>
