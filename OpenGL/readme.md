@@ -20,6 +20,7 @@
 
 * Rubik's Cube
 * 3D Calculator
+* Game of Life
 
 ## Sources
 
