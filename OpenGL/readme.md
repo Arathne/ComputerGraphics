@@ -13,7 +13,8 @@
 | 7      | Controller         | x |
 | 8      | Multiplayer        | x |
 | 9      | Lighting           | x |
-| 10     | Dear ImGui         | x |
+| 10     | Particle           | x |
+| 11     | Dear ImGui         | x |
 
 ## Projects
 
