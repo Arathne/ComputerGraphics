@@ -16,4 +16,4 @@
 * PART MAP
 
 ## REFERENCES
-* MAKEFILE - https://www.gnu.org/software/make/
+* GNU MAKE - https://www.gnu.org/software/make/manual/make.html
