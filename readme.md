@@ -10,10 +10,14 @@
 * A VEHICLE TAKES THE COMPUTER FROM POINT A TO POINT B
 * AN ENGINE IS DESIGNED TO IDLE
 
+## PARTS
+* Graphics
+* Audio
+* Input
+
 ## TOOLS
-* CALCULATOR
-* NOTES
-* PART MAP
+* A : CALCULATOR
+* B : NOTES
 
 ## REFERENCES
 * GNU MAKE - https://www.gnu.org/software/make/manual/make.html
