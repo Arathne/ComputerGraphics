@@ -21,6 +21,9 @@
 ## TOOLS
 * A : CALCULATOR
 * B : NOTES
+* C : SOUND
+* D : INPUT
+* E : DISPLAY
 
 ## GAUGE
 * A : RPM
