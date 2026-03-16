@@ -26,6 +26,7 @@
 * A : SOUND
 * B : INPUT
 * C : DISPLAY
+* D : CLOCK
 
 ## GAUGE
 * A : RPM
